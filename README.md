@@ -3,6 +3,9 @@ This is a simple web-app that will register a patient, manage new and subsequent
 Stack used:
 - ReactJs
 
+Deployment:
+- Heroku - https://healthreach-demo-client.vercel.app/
+
 - Clone the `[healthreach-demo-client](https://github.com/nelsonkimaiga/healthreach-demo-client)` folder on your terminal
 - run `npm install` from root of the folder
 - run `npm run dev` and the application will run on port `3000` in your browser i.e: `http://localhost:3000/`

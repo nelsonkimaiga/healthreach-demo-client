@@ -4,7 +4,7 @@ Stack used:
 - ReactJs
 
 Deployment:
-- Heroku - https://healthreach-demo-client.vercel.app/
+- Vercel - https://healthreach-demo-client.vercel.app/
 
 - Clone the `[healthreach-demo-client](https://github.com/nelsonkimaiga/healthreach-demo-client)` folder on your terminal
 - run `npm install` from root of the folder

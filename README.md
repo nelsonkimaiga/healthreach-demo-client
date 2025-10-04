@@ -1,4 +1,8 @@
-This is a simple web-app that will register a patient, manage new and subsequent visits for the patient and captures their health-related vitals.
+This is a simple web-app that does:
+
+- Patient Registration: Captures details and redirects to a visits page.
+- Visits: Records vitals (height, weight, auto-calculated BMI) and displays clinical sections (Section A for BMI ≤ 25, Section B for BMI > 25).
+- Patient Listing: Filters patients by date with BMI status (Underweight < 18.5, Normal 18.5-25, Overweight ≥ 25), supporting clinical decision-making.
 
 Stack used:
 - ReactJs

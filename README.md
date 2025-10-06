@@ -7,9 +7,7 @@ This is a simple web-app that hnadles the use-cases below:
 Stack used:
 - ReactJs
 
-Deployment:
-- Vercel - https://healthreach-demo-client.vercel.app/
-
+How to run:
 - Clone the `[healthreach-demo-client](https://github.com/nelsonkimaiga/healthreach-demo-client)` folder on your terminal
 - run `npm install` from root of the folder
 - run `npm start` and the application will run on port `3000` in your browser i.e: `http://localhost:3000/`
